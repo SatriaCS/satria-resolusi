@@ -1,6 +1,7 @@
 -php
   *CI 
-  *Laravel
+  *laravel
 - Javascript
   *notejs
+  *vuejs
   *reactjs
