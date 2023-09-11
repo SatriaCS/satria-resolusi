@@ -1,4 +1,5 @@
 SATRIA RESOLUSI
 - Konsisten mempelajari bahasa pemrograman dan framework nya
+- mencari pengalaman
 - menjadi backend/frontend web developer
 - fullstack
